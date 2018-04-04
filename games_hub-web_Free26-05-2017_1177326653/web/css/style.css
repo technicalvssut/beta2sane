@@ -47,7 +47,7 @@ body{
 }
 .agileits-logo h1 a{
     font-size: 2em;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     color: #FF9800;
     text-decoration: none;
     font-weight: 700;
@@ -308,14 +308,14 @@ body{
     text-align: center;
 }
 .banner_text h3 {
-    color: #FFFFFF;
+    color: gray;
     font-size: 7em;
     margin: 0;
     font-weight: 100;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
 }
 .banner_text p {
-    color: #FFFFFF;
+    color: lime;
     font-size: 1em;
     margin: 2em 0;
     letter-spacing: 2px;
